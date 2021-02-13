@@ -7,6 +7,8 @@ the purposes of the novel.
 
 To run this project, you will need to run Markovify on the "Text-Conglomerate.txt," 
 which is  conglomerate text file of the Book of Ecclesiastes and an online, self-published
-Self-Help Book. 
+Self-Help Book. In my run of this part of the project, I chose to select an output with 
+500 lines in order to give me a large chunk of text for the GPT-2 to work with. 
 
-From here
+From here, I saved the 500 lines of output into a text file called "Markovified-Text.txt," 
+which I trained using GPT-2. 
