@@ -8,7 +8,10 @@ the purposes of the novel.
 To run this project, you will need to run Markovify on the "Text-Conglomerate.txt," 
 which is  conglomerate text file of the Book of Ecclesiastes and an online, self-published
 Self-Help Book. In my run of this part of the project, I chose to select an output with 
-500 lines in order to give me a large chunk of text for the GPT-2 to work with. 
+500 lines in order to give me a large chunk of text for the GPT-2 to work with. Running it
+with 500 lines has it come out to about 10,500 words, which I believe should be a palatable
+amount for GPT-2 to work with, and a good amount to develop 3,000 words from for the purposes
+of this Creative Assignment.
 
 From here, I saved the 500 lines of output into a text file called "Markovified-Text.txt," 
 which I trained using GPT-2. 
