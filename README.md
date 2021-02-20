@@ -32,4 +32,4 @@ significant in length in order to be a chapter (otherwise it's just a section). 
 my chapters uniform in length and temperature, and I hope that what came of this process
 was a weird, zany, self-written chapter of someone's personal Bible. 
 
-The final 3,000 word version of my Novel is saved as "Dani's Bible"
+The final 3,000 word version of my Novel is saved as "Dani's-Bibl.txte"
